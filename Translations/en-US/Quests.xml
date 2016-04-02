@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.23">
+<Quests Version="1.1.27">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -420,7 +420,70 @@
     <JP-Detail>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</JP-Detail>
     <TR-Detail>Have Ashigara (足柄) as the flagship, Kuma (球磨) and Nagara (長良) in your main fleet.</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
+    <ID>164</ID>
+    <JP-Name>「第三航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A59: Organise the 3rd Carrier Division</TR-Name>
+    <JP-Detail>「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship and aircraft carriers Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>165</ID>
+    <JP-Name>「第四航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A60: Organise the 4th Carrier Division</TR-Name>
+    <JP-Detail>航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Ise Kai (伊勢改) and Hyuuga Kai (日向改) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>166</ID>
+    <JP-Name>「小沢艦隊」を編成せよ！</JP-Name>
+    <TR-Name>A61: Organise the Ozawa Fleet</TR-Name>
+    <JP-Detail>「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！</JP-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>167</ID>
+    <JP-Name>新航空戦隊を編成せよ！</JP-Name>
+    <TR-Name>A62: Organise the New Carrier Fleet</TR-Name>
+    <JP-Detail>改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！</JP-Detail>
+    <TR-Detail>Have Shoukaku Kai2 (翔鶴改二) and Zuikaku Kai2 (瑞鶴改) along with 2 destroyers as their escort in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>168</ID>
+    <JP-Name>「第十六戦隊(第二次)」を編成せよ！</JP-Name>
+    <TR-Name>A63: Organise the 16th Squadron (2nd Gen.)</TR-Name>
+    <JP-Detail>「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！</JP-Detail>
+    <TR-Detail>Have Natori (名取) as the flagship, Isuzu (五十鈴) and Kinu (鬼怒) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>169</ID>
+    <JP-Name>「新編成航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A64: Organize the New Carrier Division</TR-Name>
+    <JP-Detail>空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>170</ID>
+    <JP-Name>精強な「水上反撃部隊」を再編成せよ！</JP-Name>
+    <TR-Name>A65: Strengthen the Surface Counterattack Fleet</TR-Name>
+    <JP-Detail>駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>171</ID>
+    <JP-Name>「第三十一戦隊(第一次)」を編成せよ！</JP-Name>
+    <TR-Name>A66: Organise the 31st Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Isuzu Kai2 (五十鈴改二) as the flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>172</ID>
+    <JP-Name>「第二七駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>A67: Organize the 27th Destroyer Division</TR-Name>
+    <JP-Detail>「白露改」旗艦、「時雨」「春雨」「五月雨」4隻による第二七駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Shiratsuyu Kai (as flagship), Shigure, Harusame and Samidare in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Bd1: Defeat an Enemy Fleet</TR-Name>
@@ -649,7 +712,7 @@
     <JP-Name>「第六戦隊」出撃せよ！</JP-Name>
     <TR-Name>B19: Sortie the 6th Cruiser Division</TR-Name>
     <JP-Detail>編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score a S rank victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score an S rank victory against World 2-3 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
@@ -943,7 +1006,7 @@
     <JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
     <TR-Name>B49: Sortie an Aircraft Carrier Task Force to the Aleutian Islands</TR-Name>
     <JP-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with an CV flagship to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with a CV flagship to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>286</ID>
@@ -972,6 +1035,90 @@
     <TR-Name>B52: Sortie the 16th Squadron (1st Gen.)</TR-Name>
     <JP-Detail>「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Ashigara (足柄) as the flagship, Kuma (球磨), Nagara (長良) and up to 3 additional ships to World 2-2 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>290</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」を収獲しよう！</JP-Name>
+    <TR-Name>Saury Fishing: Let's Harvest Some Saury</TR-Name>
+    <JP-Detail>近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！</JP-Detail>
+    <TR-Detail>Defeat enemy fleets in Worlds 1 and 3 and gather 3 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>291</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」をもっと収獲しなきゃ！</JP-Name>
+    <TR-Name>Saury Fishing: You've Got to Harvest More Saury</TR-Name>
+    <JP-Detail>ちょっと大変だけれど、漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！</JP-Detail>
+    <TR-Detail>Ensure the safety of the fishing grounds and have a total of 10 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>292</ID>
+    <JP-Name>秋刀魚漁：もっと頑張ってもいいのよ！</JP-Name>
+    <TR-Name>Saury Fishing: Let's Harvest Even More Saury</TR-Name>
+    <JP-Detail>かなり大変だけれど、秋刀魚漁、もっともっと頑張ってもいいのよ！</JP-Detail>
+    <TR-Detail>Work hard and have a total of 30 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>293</ID>
+    <JP-Name>「第三航空戦隊」南西諸島防衛線に出撃！</JP-Name>
+    <TR-Name>B53: Sortie the 3rd Carrier Division to Protect the Nansei Islands</TR-Name>
+    <JP-Detail>編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田), and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>294</ID>
+    <JP-Name>「小沢艦隊」出撃せよ！</JP-Name>
+    <TR-Name>B54: Sortie the Ozawa Fleet</TR-Name>
+    <JP-Detail>「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>295</ID>
+    <JP-Name>「第十六戦隊(第二次)」出撃せよ！</JP-Name>
+    <TR-Name>B55: Sortie the 16th Squadron (2nd Gen.)</TR-Name>
+    <JP-Detail>「第十六戦隊(第二次)」をオリョール海に展開、敵主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Natori (名取) as the flagship, Isuzu (五十鈴), Kinu (鬼怒) and up to 3 additional ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>296</ID>
+    <JP-Name>新編成航空戦隊、北方へ進出せよ！</JP-Name>
+    <TR-Name>B56: Sortie the New Carrier Division to the North</TR-Name>
+    <JP-Detail>「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers to World 3-3 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>297</ID>
+    <JP-Name>「礼号作戦」実施せよ！</JP-Name>
+    <TR-Name>B57: Operation Rei-go</TR-Name>
+    <JP-Detail>精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) (you may add another ship) to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>298</ID>
+    <JP-Name>師走の「間宮」のお手伝い</JP-Name>
+    <TR-Name>Help Mamiya</TR-Name>
+    <JP-Detail>提督お手伝いすみません…「お飾り材料」を16個集めて頂けないでしょうか？</JP-Detail>
+    <TR-Detail>Have 16 decoration materials in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>299</ID>
+    <JP-Name>年越し準備！師走の「間宮」のお手伝い</JP-Name>
+    <TR-Name>Preparation for New Year's Eve! Help Mamiya</TR-Name>
+    <JP-Detail>提督…もしよかったら…「お飾り材料」32個使って、お飾りを一緒に作りませんか？</JP-Detail>
+    <TR-Detail>Have 32 decoration materials in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>234</ID>
+    <JP-Name>水上反撃作戦【礼号作戦】を完遂せよ！</JP-Name>
+    <TR-Name>Complete Operation Rei-go</TR-Name>
+    <JP-Detail>カンパン湾より突入部隊を出撃させ、水上反撃作戦【礼号作戦】を完遂せよ！</JP-Detail>
+    <TR-Detail>Clear E-2.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>421</ID>
+    <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
+    <TR-Name>Have Friendly Ship Participate in Naval Review</TR-Name>
+    <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
+    <TR-Detail>Send six ships (flagship level 6+, summary level 15+) and complete expedition 175 (親善艦参加観艦式).</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
@@ -1167,7 +1314,7 @@
     <JP-Name>機動部隊の運用を強化せよ！</JP-Name>
     <TR-Name>D19: Strengthen the Carrier Task Force Operations</TR-Name>
     <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expeditions 26 (MO作戦) and 35 (敵母港空襲作戦).</TR-Detail>
+    <TR-Detail>Complete expeditions 26 (敵母港空襲作戦) and 35 (MO作戦).</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
@@ -1291,23 +1438,26 @@
   <Quest>
     <ID>614</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F13: Model Conversion (to Tenzan)</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 97 Torpedo Bomber (Tomonaga Squadron) as your secretary, scrap 2 Tenzans (simultaneously) to upgrade the Type 97 to Tenzan Model 12 (Tomonaga Squadron). The Type 97 must not be locked or you'll lose the Tenzans.</TR-Detail>
+    <TR-Detail>F13: Equip a Type 97 Torpedo Bomber (Tomonaga Squadron) on a Carrier secretary, then scrap 2 Tenzan.
+The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F14: Model Conversion (to Suisei)</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 99 Dive Bomber (Ekusa Squadron) as your secretary, scrap 2 Suiseis (simultaneously) to upgrade the Type 99 to Suisei (Ekusa Squadron). The Type 99 must not be locked or you'll lose the Suiseis.</TR-Detail>
+    <TR-Detail>F14: Equip a Type 99 Dive Bomber (Egusa Squadron) on a Carrier secretary, then scrap 2 Suisei.
+The Type 99 Dive Bomber (Egusa Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F15: Model Conversion (to Reppuu)</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Type 52 Type C (601 Air Group) as your secretary, scrap 2 Reppuus to upgrade the Type 52 to Reppuu (601 Air Group). The Type 52 must not be locked or you'll lose the Reppuus.</TR-Detail>
+    <TR-Detail>F15: Equip a Zero Fighter Model 52C (601 Air Group) on a Carrier secretary, then scrap 2 Reppuu.
+The Zero Fighter Model 52C (601 Air Group) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>617</ID>
@@ -1333,16 +1483,95 @@
   <Quest>
     <ID>622</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F20: Model Conversion</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku equipped with a Type 97 Torpedo Bomber (Murata Squadron)‎ as your secretary, scrap 2 Tenzans to upgrade the Type 97 to Tenzan Model 12 (Murata Squadron).</TR-Detail>
+    <TR-Detail>F19: Equip a Type 97 Torpedo Bomber (Murata Squadron) on Shoukaku as secretary, then scrap 2 Tenzan.
+The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>623</ID>
     <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
-    <TR-Name>F19: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
+    <TR-Name>F20: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron)‎.</TR-Detail>
+    <TR-Detail>With Shoukaku or Akagi as secretary, scrap 3 Type 97 Torpedo Bomber.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>624</ID>
+    <JP-Name>試作艤装の準備</JP-Name>
+    <TR-Name>F21: Prototype Flight Deck Outfitting Preparations</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
+    <TR-Detail>Scrap equipment 7 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>625</ID>
+    <JP-Name>試製航空艤装の追加試作</JP-Name>
+    <TR-Name>F23: Additional Prototype Deck Outfitting</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。</JP-Detail>
+    <TR-Detail>Scrap equipment 9 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>626</ID>
+    <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
+    <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
+    <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
+    <TR-Detail>F22m1: Equip a Lv.7 Zero Fighter Model 21 on Houshou as secretary, then scrap 2 Zero Fighter Model 21 and a Type 96 Fighter.
+A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed. The Lv.7 Zero Fighter Model 21 must not be locked.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>627</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>Model Conversion</TR-Name>
+    <JP-Detail>「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>F24: Equip Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52.
+The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>628</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>Model Conversion</TR-Name>
+    <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>F25m2: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52.
+The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>629</ID>
+    <JP-Name>「艦戦」隊の再編成</JP-Name>
+    <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
+    <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
+    <TR-Detail>F26: Equip Lv.7 Zero Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap a Zero Fighter Model 52C (601 Air Group).
+The Lv.7 Zero Fighter Model 52 (Skilled) must not be locked.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>630</ID>
+    <JP-Name>「艦戦」隊の再編成</JP-Name>
+    <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
+    <JP-Detail>練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>F28: Equip Lv.7 Zero Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 21.
+The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>631</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
+    <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
+    <TR-Detail>F27: Equip Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter-bomber Model 62.
+The Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) must not be locked.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>632</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>Model Conversion</TR-Name>
+    <JP-Detail>練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>F29: Equip Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 52.
+The Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) must not be locked.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>633</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
+    <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
+    <TR-Detail>F30: Equip Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun.
+The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -1371,5 +1600,68 @@
     <TR-Name>G4: Preparation for LSC (Part 1)</TR-Name>
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
     <TR-Detail>Perform 4 successful modernizations.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>801</ID>
+    <JP-Name>謹賀新年！「水雷戦隊」出撃始め！</JP-Name>
+    <TR-Name>Happy New Year! Sortie a Torpedo Squadron</TR-Name>
+    <JP-Detail>水雷戦隊を製油所地帯沿岸に展開！同海域の敵艦隊を撃滅、新年の暁に勝利を刻むのです！</JP-Detail>
+    <TR-Detail>Sortie 1 CL and 3-5 DD to World 1-3 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>802</ID>
+    <JP-Name>新年の「伊良湖」のお手伝い！</JP-Name>
+    <TR-Name>Help Irako during New Year</TR-Name>
+    <JP-Detail>大丈夫、新年は収集任務じゃないんです！東部オリョール海の敵艦隊を三回撃滅してください！</JP-Detail>
+    <TR-Detail>Sortie a fleet to World 2-3 and score an S rank victory at the boss node 3 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>803</ID>
+    <JP-Name>漲る戦艦魂！大艦巨砲なお正月！</JP-Name>
+    <TR-Name>The burning soul of a battleship! A New Year with big ships and huge guns</TR-Name>
+    <JP-Detail>戦艦4隻を基幹戦力とする艦隊をカレー洋へ展開！敵艦隊を反復撃滅し、同海域を制圧せよ！</JP-Detail>
+    <TR-Detail>Sortie 4 BB/FBB/BBV to World 4-2 (you may add 2 more ships) and score an S rank victory at the boss node 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>804</ID>
+    <JP-Name>迎春！「機動部隊」抜錨せよ！</JP-Name>
+    <TR-Name>Happy New Year! Sortie a Carrier Task Force</TR-Name>
+    <JP-Detail>空母2隻を基幹戦力とする機動部隊をMS諸島沖に展開、来襲する敵攻略部隊を反復撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie 2 CV/CVB/CVL and up to 4 additional ships to World 6-2 and score an S rank victory at the boss node 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>805</ID>
+    <JP-Name>旗艦「霞」北方海域を哨戒せよ！</JP-Name>
+    <TR-Name>B58: Send Kasumi to Patrol the Northern Sea</TR-Name>
+    <JP-Detail>旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 3 DD and up to 2 additional ships to World 3-1 and score a victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>806</ID>
+    <JP-Name>旗艦「霞」出撃！敵艦隊を撃滅せよ！</JP-Name>
+    <TR-Name>B59: Sortie Kasumi and Defeat the Enemy Fleet</TR-Name>
+    <JP-Detail>旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 2 DD and up to 3 additional ships to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>807</ID>
+    <JP-Name>「第三十一戦隊」出撃せよ！</JP-Name>
+    <TR-Name>B60: Deploy the 31st Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Isuzu Kai2 (五十鈴改二) as flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) and up to 3 additional ships to World 1-6 and complete the map.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>808</ID>
+    <JP-Name>「第二七駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>B61: Sortie the 27th Destroyer Division</TR-Name>
+    <JP-Detail>「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships and score an S rank victory against World 2-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>809</ID>
+    <JP-Name>強襲上陸作戦用戦力を増強せよ！</JP-Name>
+    <TR-Name>B62: Bolster the Capability for Amphibious Assault Operations!</TR-Name>
+    <JP-Detail>中部海域における航空偵察「K作戦」を実施しつつ、強襲上陸作戦用戦力の強化を図れ！</JP-Detail>
+    <TR-Detail>Score a victory against World 6-3 Boss.</TR-Detail>
   </Quest>
 </Quests>
